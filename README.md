@@ -43,7 +43,7 @@
 
 
 ## Output
-![image](empd2.png)
+![empd2](https://github.com/AJAYASWIN-M/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/118679692/5b03a124-c37d-4163-b981-b937444db661)
 
 
 ### Name: AJAY ASWIN M
